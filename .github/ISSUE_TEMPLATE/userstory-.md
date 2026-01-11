@@ -1,6 +1,6 @@
 ---
-name: USER STORY
-about: USERSTORY ISSUES TEMPLATE
+name: 'USERSTORY '
+about: Describe this issue template's purpose here.ISSUESTEMPLATE
 title: ''
 labels: ''
 assignees: ''
